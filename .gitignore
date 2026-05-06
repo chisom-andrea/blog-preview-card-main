@@ -15,9 +15,9 @@
 .DS_Store
 .prettierignore
 
-assests/fonts/
+
 design/
-.AGENTS.md
-.CLAUDE.md
-.preview.jpg
-.style-guide.md
+assets/fonts
+AGENTS.md
+CLAUDE.md
+style-guide.md
